@@ -1,1 +1,0 @@
-- **Inference Latency** refers to the time it takes for a model to produce an output after receiving an input
